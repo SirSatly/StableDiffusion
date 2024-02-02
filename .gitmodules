@@ -1,3 +1,9 @@
 [submodule "extensions/webui-controlnet"]
 	path = extensions/webui-controlnet
 	url = https://github.com/Mikubill/sd-webui-controlnet
+[submodule "extensions/deforum-for-automatic1111-webui"]
+	path = extensions/deforum-for-automatic1111-webui
+	url = https://github.com/deforum-art/sd-webui-deforum
+[submodule "extensions/sd-webui-controlnet"]
+	path = extensions/sd-webui-controlnet
+	url = https://github.com/Mikubill/sd-webui-controlnet

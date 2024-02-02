@@ -36,4 +36,3 @@ notification.mp3
 /node_modules
 /package-lock.json
 /.coverage*
-/extensions\deforum-for-automatic1111-webui
